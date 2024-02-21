@@ -22,6 +22,6 @@ list
 [Link to file](../main/file1)
 
 
-![alt text](../main/s.png)
+![alt text](img src="../main/s.png" width="200" /)
 
 
