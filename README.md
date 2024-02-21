@@ -22,6 +22,6 @@ list
 [Link to file](../main/file1)
 
 
-![alt text]("https://github.com/ereedsanchez/testing/blob/main/s.png)
+![alt text](https://github.com/ereedsanchez/testing/blob/main/s.png)
 
 
