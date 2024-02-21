@@ -22,6 +22,6 @@ list
 [Link to file](../main/file1)
 
 
-![alt text](img src="https://github.com/ereedsanchez/testing/blob/main/s.png" width=50% )
+![alt text]("https://github.com/ereedsanchez/testing/blob/main/s.png)
 
 
